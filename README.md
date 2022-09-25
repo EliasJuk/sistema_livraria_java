@@ -34,10 +34,20 @@
   Como criar um projeto Maven com o VSCode?
 </h2>
 
+- Para desenvolver aplicações <strong>java</strong> no <strong>VSCode</strong> necessitamos de uma plugin chamado <strong>Extension Pack for Java<strong>, o mesmo permite desenvolvermos aplicações com maven, spring, quarkus entre outras.
 <p align="center"> <img src="readme/img-00_extension_pack_for_java.png"/> </p>
+
+-  Utilize o atalho <strong>CTRL + SHIFT + P</strong> e digite <strong>Java: Overview</strong>
 <p align="center"> <img src="readme/img-01_java_overview.png"/> </p>
 <p align="center"> <img src="readme/img-02_java_overview_start.png"/> </p>
-<p align="center"> <img src="readme/img-03_create_maven_project"/> </p>
+<p align="center"> <img src="readme/img-03_create_maven_project.png"/> </p>
+<p align="center"> <img src="readme/img-04_maven_version.png"/> </p>
+<p align="center"> <img src="readme/img-05_groupId.png"/> </p>
+<p align="center"> <img src="readme/img-06_artifactId.png"/> </p>
+<p align="center"> <img src="readme/img-07_version.png"/> </p>
+<p align="center"> <img src="readme/img-08_confirm.png"/> </p>
+<p align="center"> <img src="readme/img-09_estrutura_projeto_maven.png"/> </p>
+<p align="center"> <img src="readme/img-04_maven_version.png"/> </p>
 
 ---
 
